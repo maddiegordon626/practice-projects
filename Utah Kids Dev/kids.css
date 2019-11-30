@@ -1,0 +1,76 @@
+/* Navigation */
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+}
+nav ul li {
+  float: right;
+}
+
+nav ul li a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 0 30px;
+  text-decoration: none;
+  font-family: Open Sans;
+  font-size: .75em;
+  line-height: 1.5em;
+}
+
+.top-left {
+  float: left;
+  display: inline;
+  text-transform: uppercase;
+  font-family: Roboto;
+  font-weight: bold;
+  line-height: 1.5em;
+  font-size: .9em;
+  padding-left: 10px;
+}
+
+nav ul img {
+  float: left;
+  width: 15px;
+  padding-right: 17px;
+  padding-left: 10px;
+}
+
+.nav-bar {
+  background-color: #f8f8f8;
+  padding: 20px;
+
+}
+
+body {
+  margin: 0px;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+
+
+/* Hero Area */
+.main-header {
+  font-family: Roboto;
+  margin: 200px;
+
+}
+
+.donate {
+  text-transform: uppercase;
+  background-color: green;
+  border-radius: 10px;
+
+}
+
+.tagline {
+  padding-bottom: 2em;
+  padding-top: 1em;
+}
